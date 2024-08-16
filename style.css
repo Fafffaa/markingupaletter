@@ -15,24 +15,21 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.sender, .recipient, .date, .subject {
-    margin-bottom: 20px;
-}
-
 .sender {
     font-weight: bold;
     text-align: right;
     line-height: 1.4;
 }
 
-.recipient {
-    font-style: italic;
-    line-height: 1.4;
-}
-
 .date {
     text-align: right;
     font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.recipient {
+    font-style: italic;
+    margin-bottom: 20px;
 }
 
 .subject {
@@ -40,6 +37,7 @@ body {
     font-weight: bold;
     text-decoration: underline;
     margin-top: 40px;
+    margin-bottom: 20px;
 }
 
 h3 {
