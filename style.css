@@ -15,15 +15,9 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.sender {
-    font-weight: bold;
+.right-align {
     text-align: right;
-    line-height: 1.4;
-}
-
-.date {
-    text-align: right;
-    font-weight: bold;
+    line-height: 1.6;
     margin-bottom: 40px;
 }
 
